@@ -43,5 +43,4 @@ Prepare and preprocess data.
 
 Train the model and evaluate its performance.
 
-**License**
-MIT License.
+
